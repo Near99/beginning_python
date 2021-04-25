@@ -8,18 +8,18 @@
  **/  
 int main()
 {
-    long long card_number = get_long("Number: ");
-	long long ten_pow;
-	int second_number = 0; 
-    int first_number = 0;
-	int total_spard = 0;
-	int total_less_ten = 0;
-	int get_num = 0;
-    int tmp_sum = 0;
-	int length = 0;
-	long long length_count = card_number;
+     	long long card_number = get_long("Number: ");
+    	long long ten_pow;
+    	int second_number = 0; 
+    	int first_number = 0;
+    	int total_spard = 0;
+    	int total_less_ten = 0;
+    	int get_num = 0;
+    	int tmp_sum = 0;
+    	int length = 0;
+    	long long length_count = card_number;
 
-    // Get the length of the card number.
+        // Get the length of the card number.
 	for (length = 0; length_count != 0;)
 	{
 		length++;
