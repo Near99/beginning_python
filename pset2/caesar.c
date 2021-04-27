@@ -48,19 +48,19 @@ int main(int argc, string argv[])
         for (int i = 0; i < strlen(plaintext); ++i)
         {
             //Uppercase letters
-            if (plaintext[i] >= 65 && plaintext[i] <= 90)
+            if (plaintext[i] >= 'A' && plaintext[i] <= 'Z')
             {
                 //Handle the out-of-range letters if plus key
-                if (plaintext[i] + k > 90)
+                if (plaintext[i] + k > 'Z')
                 {
                     plaintext[i] -= 26;
                 }
                 plaintext[i] += k;
             }
             //Lowercase letters
-            else if (plaintext[i] >= 97 && plaintext[i] <= 122)
+            else if (plaintext[i] >= 'a' && plaintext[i] <= 'z')
             {
-                if (plaintext[i] + k > 122)
+                if (plaintext[i] + k > 'z')
                 {
                     plaintext[i] -= 26;
                 }
