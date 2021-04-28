@@ -23,13 +23,13 @@ int main(int argc, string argv[])
     
     if (argc != 2)
     {
-        printf("False \n");
+        printf("Usage: ./caesar key \n");
         
         return 1;
     }
     else if (atoi(argv[1]) <= 0)
     {
-        printf("False \n");
+        printf("Usage: ./caesar key \n");
         
         return 1;
     }
