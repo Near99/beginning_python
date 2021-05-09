@@ -4,10 +4,10 @@
 #include <ctype.h>
 #include <cs50.h>
 /**
- * This is a array ASCII practice again.
+ * This is an ASCII practice again.
  * I got stuck in how to match the plaintext with the key for a while.
  * Two pairs of 26 range numbers, one starts from 0 to 26, and
- * the other is 65 to 90 or 97 - 122. ont minus another is constant
+ * the other is 65 to 90 or 97 - 122. one minus another is constant
  * 65 or 97. But cannot simply match the two as string value returns
  * ASCII code as well. So I ended up to -65 and print it directly
  * in the for loop. The difference between upper and lower case
