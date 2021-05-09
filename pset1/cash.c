@@ -6,9 +6,9 @@
  * if (owned_cents >= 25) {owned_cents = owned_cents - quarters; counts++;}
  * However this solution requires four if conditions that looks even more silly than my Mario.
  * I couldn't think of any ways to simplify the code and I referred to other's work on Github,
- * then I found a power operator % used in his code. 
+ * then I found operator % used in his code. 
  * % operator computes the remainder. % really makes the life much more easier in this case :)
- * I am sure David mentioned the % operator in the lectuer but it's just somehow out of my head.
+ * I am sure David mentioned the % operator in the lecture but it's just somehow out of my head.
 **/
 
 int main(void)
