@@ -8,12 +8,12 @@
  * It's quite similar to readability in terms of manipulating 
  * strings with ASCII code. But I totaly forgot how I did 
  * readability days ago, so was in trouble for a while XD.
- * I wrote some piece code first that passed the check,
- * It was, however, in chaos. This one still but slightly better
+ * I wrote some piece of code first that passed the check,
+ * It was, however, in chaos. This one still sucks but slightly better
  * as I referred to other coders work. I tried to use 
  * -= += %= operatin format this time to clean up the code a bit.
- * Gonna watch lecture 2 again cause I think I don't understand
- * enough about the array. And will try to write a atoi function
+ * Gonna watch lecture 2 again cause I think I don't have enough
+ * understanding about the array. And will try to write a atoi function
  * myself. Thanks to Federico-abss on github for your work :)
  **/
 
