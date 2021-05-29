@@ -7,7 +7,7 @@ I'm very new to programming and my code looks silly that I know XD.
 Postponed updating for a while as I am currently running out of time.
 I've finished studying all the lectures today but won't be spending time solving 
 pset-problems by now. 
-I need to learn "job-orient" skills first so I'll jump into CS50 web-programming course
+I need to learn "job-orient" skills first so I'll jump into some web-programming courses
 and put this one behind.
-Will try to solve remained problems without pre-written code later this year.
-Wish me luck to get a job as soon as possible.
+Will try to solve remained problems without pre-written code later this year if I got time.
+Hope I can get a job as soon as possible.
